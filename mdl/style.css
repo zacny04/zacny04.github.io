@@ -1,7 +1,24 @@
 .drop-footer {
-	clear:both;
-	width: 100%;
-	max-width: 100%;
-	position: absolute;
-	bottom: 0px;
+  clear:both;
+  width: 100%;
+  max-width: 100%;
+  position: absolute;
+  bottom: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.post-card {
+  max-width: 800px;
+}
+
+.black-text {
+  color: black;
+}
+
+.mdl-card {
+	margin-right: auto;
+	margin-left: auto;
 }
